@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 # Praveen Kumar
 
 ### Profession: Frontend Developer
