@@ -1,0 +1,26 @@
+name: Update README daily
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      
+    - name: Update README with current date
+      run: |
+        # Update the README file with the current date
+        sed -i "s/{{TIMESTAMP}}/$(date)/" README.md
+      
+    - name: Commit changes
+      run: |
+        git config --global user.name "Your Name"
+        git config --global user.email "your-email@example.com"
+        git add README.md
+        git commit -m "Updated README on $(date)"
+        git push
