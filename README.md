@@ -2,6 +2,9 @@
 
 Welcome to my GitHub profile! I'm a passionate frontend developer and software enthusiast.
 
+![GitHub followers](https://img.shields.io/github/followers/praveenkumar?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/praveenkumar/some-repo?style=social)
+
 ### 🚀 About Me
 - 🎓 Recent graduate with a Master of Computer Applications from JNTU Anantapur.
 - 💻 I have experience in frontend development, working as a freelance developer.
@@ -12,16 +15,3 @@ Welcome to my GitHub profile! I'm a passionate frontend developer and software e
 - **Languages:** JavaScript, Python, HTML, CSS
 - **Frameworks & Tools:** React.js, .NET, Node.js, Django
 - **Other:** WebGL, AR/VR Development, Git & GitHub
-
-### 🌱 What I’m Working On
-- Currently developing a VR Tourist Guide app.
-- Creating interactive 3D models using WebGL for immersive experiences.
-
-### 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/praveenkumar)
-- [Portfolio](https://your-portfolio-link.com)
-![GitHub followers](https://img.shields.io/github/followers/{Praween-em}?style=social)
-
-### 💬 Let's Collaborate
-I'm open to collaborating on projects related to frontend development, full-stack applications, and AR/VR experiences.
-
