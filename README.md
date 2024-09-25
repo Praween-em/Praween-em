@@ -20,6 +20,7 @@ Welcome to my GitHub profile! I'm a passionate frontend developer and software e
 ### 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/praveenkumar)
 - [Portfolio](https://your-portfolio-link.com)
+![GitHub followers](https://img.shields.io/github/followers/{Praween-em}?style=social)
 
 ### 💬 Let's Collaborate
 I'm open to collaborating on projects related to frontend development, full-stack applications, and AR/VR experiences.
