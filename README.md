@@ -2,8 +2,8 @@
 
 Welcome to my GitHub profile! I'm a passionate frontend developer and software enthusiast.
 
-![GitHub followers](https://img.shields.io/github/followers/praveenkumar?style=social)
-![GitHub Repo stars](https://img.shields.io/github/stars/praveenkumar/some-repo?style=social)
+![GitHub followers](https://img.shields.io/github/followers/praween-em?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/praween-em/some-repo?style=social)
 
 ### 🚀 About Me
 - 🎓 Recent graduate with a Master of Computer Applications from JNTU Anantapur.
