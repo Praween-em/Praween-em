@@ -1,6 +1,7 @@
 # Hi there, I'm Praveen Kumar 👋
 
 Welcome to my GitHub profile! I'm a passionate frontend developer and software enthusiast.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&weight=500&size=100&pause=1000&color=000000F2&background=E8CF2CE8&center=true&vCenter=true&width=2000&height=600&lines=Hi+there!+I'm+Praveen+Kumar;%7CPassionate+Frontend+Developer+%7C;%7C+Designer+%26+Web+AR%2FVR+Enthusiast+%7C)](https://git.io/typing-svg)
 
 ![GitHub followers](https://img.shields.io/github/followers/praween-em?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/praween-em/some-repo?style=social)
