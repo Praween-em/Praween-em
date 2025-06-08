@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Rick and Morty portal animation as intro -->
-<img src="[https://media.giphy.com/media/vu4Vxn5GpK6ww/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTQxdWxjOHI0ZW11Z3R0Y2M5MWt1b3hzc2JsMmh5aTltcHp6d2w3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41JMXnXn4E7WQR8s/giphy.gif)" alt="Rick and Morty Portal" width="300px" style="border-radius: 15px;" />
+<img src="https://media.giphy.com/media/vu4Vxn5GpK6ww/giphy.gif" alt="Rick and Morty Portal" width="300px" style="border-radius: 15px;" />
 
 # 👾 Welcome to Praveen Kumar's Rick & Morty Multiverse 👾
 
