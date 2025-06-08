@@ -1,13 +1,13 @@
 <div style="background-color: #00BFFF; border: 5px solid #FFD700; border-radius: 15px; padding: 20px;">
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z2b2Vna3VqdTJocXk4cWJ0ZDA5Z2k4eXpmcDN0czNsc2E3ZHJjdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o7WAJ2fD5o6He/giphy.gif" width="150px">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Banana.gif" width="100px">
   <h1 style="font-family: 'Comic Sans MS', cursive; color: #FFD700; text-shadow: 3px 3px 0px #000000;">WHASSUP! I'M PRAVEEN KUMAR!</h1>
   <p style="font-family: 'Arial Rounded MT Bold', sans-serif; color: #FFFFFF;">Your friendly neighborhood coder, surfing the World Wide Web!</p>
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDJrdXQyZnRxdnBsbmxqamZwd2lrbzYxOG8xNHEzN2VrbjNicjlkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/90sBEYg5g2pB0b22i2/giphy.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/iuricode/iuricode/main/images/hr.gif" width="100%">
 </p>
 
 <h2 align="center" style="font-family: 'Comic Sans MS', cursive; color: #FFFFFF; background-color: #FF69B4; border-radius: 10px; padding: 5px; border: 3px solid #000000;">🎬 My Awesome Adventures (Projects) 🎬</h2>
@@ -17,10 +17,10 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top" style="padding: 10px;">
-      <div style="background-color: #F0E68C; border: 4px solid #000000; border-radius: 15px; padding: 20px;">
+      <div style="background-color: #F0E68C; border: 4px solid #000000; border-radius: 15px; padding: 20px; height: 100%;">
         <h3 align="center" style="font-family: 'Arial Rounded MT Bold', sans-serif; color: #000000; margin-top: 0;">toletu</h3>
         <div align="center">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGNuc2VhdTZxZW1uOXNtYmZtcWJiN3k3ZDNpc2h3eDNjc3owZXRyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjI5Vt66B2F3x2p2/giphy.gif" width="220px" alt="ToLetu Project Animation" style="border: 3px solid #000; border-radius: 5px;">
+          <img src="https://raw.githubusercontent.com/iuricode/iuricode/main/images/city.gif" width="220px" alt="ToLetu Project Animation" style="border: 3px solid #000; border-radius: 5px;">
         </div>
         <p style="font-family: 'Courier New', monospace; color: #333333;">The coolest "To-Let" app on the block! Helping you find your next secret hideout or epic fortress. It's da bomb!</p>
         <div align="center">
@@ -31,10 +31,10 @@
       </div>
     </td>
     <td width="50%" valign="top" style="padding: 10px;">
-      <div style="background-color: #ADD8E6; border: 4px solid #000000; border-radius: 15px; padding: 20px;">
+      <div style="background-color: #ADD8E6; border: 4px solid #000000; border-radius: 15px; padding: 20px; height: 100%;">
         <h3 align="center" style="font-family: 'Arial Rounded MT Bold', sans-serif; color: #000000; margin-top: 0;">Intelligent Surveillance System</h3>
         <div align="center">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z2azBvMG1lczJ0aWQ3MzRyaXdwM25jaThwNTYwM25hMDcwdXN3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11gZBGuD3T2p2w/giphy.gif" width="220px" alt="Surveillance Project Animation" style="border: 3px solid #000; border-radius: 5px;">
+          <img src="https://raw.githubusercontent.com/subinedge/subinedge/main/images/eye.gif" width="220px" alt="Surveillance Project Animation" style="border: 3px solid #000; border-radius: 5px;">
         </div>
         <p style="font-family: 'Courier New', monospace; color: #333333;">A super-smart, high-tech digital watchdog! It's like having your own cartoon gadget to keep an eye on things.</p>
         <div align="center">
@@ -48,7 +48,7 @@
 </table>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDJrdXQyZnRxdnBsbmxqamZwd2lrbzYxOG8xNHEzN2VrbjNicjlkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/90sBEYg5g2pB0b22i2/giphy.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/iuricode/iuricode/main/images/hr.gif" width="100%">
 </p>
 
 <h2 align="center" style="font-family: 'Comic Sans MS', cursive; color: #FFFFFF; background-color: #FFA500; border-radius: 10px; padding: 5px; border: 3px solid #000000;">⚡ My Power-Ups (Skills) ⚡</h2>
@@ -87,7 +87,7 @@
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDJrdXQyZnRxdnBsbmxqamZwd2lrbzYxOG8xNHEzN2VrbjNicjlkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/90sBEYg5g2pB0b22i2/giphy.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/iuricode/iuricode/main/images/hr.gif" width="100%">
 </p>
 
 <h2 align="center" style="font-family: 'Comic Sans MS', cursive; color: #FFFFFF; background-color: #9370DB; border-radius: 10px; padding: 5px; border: 3px solid #000000;">👾 My High Scores 👾</h2>
