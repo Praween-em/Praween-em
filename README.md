@@ -35,7 +35,6 @@ Here are a couple of my completed missions. Check out my full game library in th
     <td style="border: 2px solid #7B68EE; padding: 10px; border-radius: 10px;">
       <h3><strong>Intelligent Surveillance System</strong></h3>
       <a href="https://github.com/Praween-em/Intelligent-Surveillance-System">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2JqNW5uaXVpNnJ1eWR0bGN3cHJhc3E3aW84OHF5cXd2MDl5NmdhayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9J7tdYltzXIv6/giphy.gif" width="250px" alt="Surveillance Project GIF">
       </a>
       <p>A high-tech system for smart monitoring! Built to be the ultimate watchdog for any digital fortress. <i>(Add a brief, fun description here!)</i></p>
       <a href="https://github.com/Praween-em/Intelligent-Surveillance-System">
@@ -45,7 +44,7 @@ Here are a couple of my completed missions. Check out my full game library in th
     <td style="border: 2px solid #00FFFF; padding: 10px; border-radius: 10px;">
       <h3><strong>toletu</strong></h3>
       <a href="https://github.com/Praween-em/toletu">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWR2M2d5Zmp0cHRsM3h0NHg3MzhvajE0N3ZtM3JsYmZnc3B6Zmc2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPoZniJ2Me11lte/giphy.gif" width="250px" alt="Toletu Project GIF">
+>
       </a>
       <p>My awesome "To-Let" application for finding your next spot! It's the coolest way to search for rentals. <i>(Add your project details here!)</i></p>
       <a href="https://github.com/Praween-em/toletu">
