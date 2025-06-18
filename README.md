@@ -1,12 +1,13 @@
-<div style="background-color: #FFD700; padding: 20px; font-family: 'Inter', sans-serif; color: #000000; border-radius: 15px;">
+<div style="padding: 20px; font-family: 'Inter', sans-serif; color: #000000; border-radius: 15px;">
 
   <!-- Header Section -->
   <div align="center" style="margin-bottom: 40px;">
     <h1 style="color: #000000; font-size: 3em; margin-bottom: 10px; font-weight: 900;">PRAVEEN KUMAR: CHARGED & READY!</h1>
     <p style="font-size: 1.2em; margin-bottom: 20px;">Your friendly neighborhood coder, sparking innovation.</p>
-[![GitHub Followers](https://img.shields.io/github/followers/Praween-em?label=Followers&style=for-the-badge&logo=github&color=000000)](https://github.com/Praween-em)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&color=1a73e8)](https://www.linkedin.com/in/praveen-kumar-a00420280/)
+    
+    <!-- Social Badges - Using pure Markdown side-by-side for best compatibility -->
+    [![GitHub Followers](https://img.shields.io/github/followers/Praween-em?label=Followers&style=for-the-badge&logo=github&color=000000)](https://github.com/Praween-em) 
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&color=1a73e8)](https://www.linkedin.com/in/praveen-kumar-a00420280/)
   </div>
 
   <div style="width: 100%; height: 5px; background-color: #1A1A1A; margin: 40px 0; border-radius: 2px;"></div>
