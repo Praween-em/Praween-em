@@ -1,4 +1,4 @@
-<div style="padding: 20px; font-family: 'Inter', sans-serif; color: #000000; border-radius: 15px;">
+<div style="padding: 20px; font-family: 'Inter', sans-serif; color: #38b6ff; border-radius: 15px;">
 
   <!-- Header Section -->
   <div align="center" style="margin-bottom: 40px;">
