@@ -1,10 +1,12 @@
 <div style="padding: 0; font-family: 'Inter', sans-serif; color: #000000; border-radius: 15px; overflow: hidden; position: relative;">
 
   <!-- Yellow Background Image (will appear at the top, content below) -->
+  <!-- This image provides the visual yellow background for the top portion of your profile. -->
   <img src="1920x1080-yellow-solid-color-background.jpg" alt="Solid Bright Yellow Background" style="width: 100%; display: block; margin-bottom: -5px;">
   
-  <!-- Content Container with its own background for visual layering -->
-  <div style="background-color: rgba(255, 255, 255, 0.95); padding: 20px; border-radius: 15px; margin-top: -150px; position: relative; z-index: 1;">
+  <!-- Content Container with its own semi-transparent background for visual layering -->
+  <!-- This div contains all your profile content and is pulled up to overlap the yellow image. -->
+  <div style="background-color: rgba(255, 255, 255, 0.95); padding: 20px; border-radius: 15px; margin-top: -200px; position: relative; z-index: 1;">
     
     <!-- Header Section -->
     <div align="center" style="margin-bottom: 40px;">
