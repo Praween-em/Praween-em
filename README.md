@@ -1,2 +1,2 @@
-[![Watch My Intro Video](https://raw.githubusercontent.com/praween-em/myvideo/main/Untitled design.gif)](https://praween-em.github.io/myvideo/)
+[![Watch My Intro Video]((https://github.com/Praween-em/myvideo/blob/main/Untitled%20design.gif))](https://praween-em.github.io/myvideo/)
 
